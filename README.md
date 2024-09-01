@@ -18,3 +18,10 @@ A simple news parser that fetches a page, extracts article links, and stores the
 
 ## RU
 Простой парсер новостей: загружает HTML, извлекает заголовки и ссылки, сохраняет в SQLite. Используйте команды `fetch` и `search`.
+
+
+## 📸 Example
+
+Example of fetching and searching articles:
+
+![News Parser CLI](screenPN.png)
